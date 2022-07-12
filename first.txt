@@ -1,0 +1,4 @@
+Today is Tuesday
+Month is July
+Date is 12th
+Year is 2022
